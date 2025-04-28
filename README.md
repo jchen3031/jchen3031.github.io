@@ -1,7 +1,7 @@
 # Hello! I'm Jingyuan Chen
 
-[![GitHub](https://img.shields.io/github/followers/your_username?style=social)](https://github.com/your_username)
-[![Email](https://img.shields.io/badge/Email-your_email@example.com-blue)](mailto:your_email@example.com)
+[![GitHub](https://img.shields.io/github/followers/your_username?style=social)](https://github.com/jchen3031)
+[![Email](https://img.shields.io/badge/Email-your_email@example.com-blue)](mailto:jchen357@syr.edu)
 
 ## About Me
 
