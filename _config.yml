@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Jingyuan Chen / Personal academic homepage"
+title                    : "Jingyuan / Personal academic homepage"
 title_separator          : "-"
 name                     : &name "Jingyuan Chen"
 description              : &description "personal description"
@@ -23,10 +23,10 @@ repository               : "jchen3031/jchen3031.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Jingyuan"
+  name             : "Jingyuan Chen"
   pronouns         : "he/his" # example: "she/her"
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "NY, US"
+  bio              : "Master Student with experience in Python, and machine learning. BS Mathematics (Minor CS Intelligence) from Georgia Tech."
+  location         : "Syracuse, NY, US"
   employer         : "Syracuse University"
   uri              : # URL
   email            : "jchensteve@gmail.com"
