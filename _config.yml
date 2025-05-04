@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Jingyuan / Personal academic homepage"
+title                    : "Jingyuan"
 title_separator          : "-"
 name                     : &name "Jingyuan Chen"
 description              : &description "personal description"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Jingyuan Chen"
   pronouns         : "he/his" # example: "she/her"
-  bio              : "Master Student with experience in Python, and machine learning. BS Mathematics (Minor CS Intelligence) from Georgia Tech."
+  bio              : "Computer Science Master's student at Syracuse University interested in Machine Learning, AI, and Causal Inference. BS in Mathematics (CS Minor) from Georgia Tech."
   location         : "Syracuse, NY, US"
   employer         : "Syracuse University"
   uri              : # URL
@@ -60,7 +60,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "jingyuan-chen-7b2a8621b"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -216,19 +216,19 @@ kramdown:
 collections:
   About:
     output: true
-    permalink: /:collection/:about/
-#  teaching:
-#    output: true
-#    permalink: /:collection/:path/
-#  publications:
-#    output: true
-#    permalink: /:collection/:path/
-#  portfolio:
-#    output: true
-#    permalink: /:collection/:path/
-#  talks:
-#    output: true
-#    permalink: /:collection/:path/
+    permalink: /:collection/:path/
+  teaching:
+    output: false
+    permalink: /:collection/:path/
+  publications:
+    output: false
+    permalink: /:collection/:path/
+  portfolio:
+    output: false
+    permalink: /:collection/:path/
+  talks:
+    output: false
+    permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
@@ -251,15 +251,15 @@ defaults:
     values:
       layout: single
       author_profile: true
-#  # _teaching
-#  - scope:
-#      path: ""
-#      type: teaching
-#    values:
-#      layout: single
-#      author_profile: true
-#      share: true
-#      comments: true
+  # _teaching
+  - scope:
+      path: ""
+      type: teaching
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _publications
   - scope:
       path: ""
@@ -270,22 +270,22 @@ defaults:
       share: true
       comments: true
   # _portfolio
-#  - scope:
-#      path: ""
-#      type: portfolio
-#    values:
-#      layout: single
-#      author_profile: true
-#      share: true
-#      comment: true
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
   # _talks
-#  - scope:
-#      path: ""
-#      type: talks
-#    values:
-#      layout: talk
-#      author_profile: true
-#      share: true
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
+      author_profile: true
+      share: true
 
 
 # Sass/SCSS
