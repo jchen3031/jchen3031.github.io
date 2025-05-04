@@ -11,35 +11,38 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Computer Science, Syracuse University, 2025 (预计)
+* B.S. in Mathematics (Minor: Computer Science Intelligence), Georgia Institute of Technology, 2022
+* Associate of Arts in Computer Science, Tacoma Community College, 2020
 
-Work experience
+Projects & Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Spring 2022: Team Leader - An Exploration of Neural Networks
+  * Location: Atlanta, GA (Georgia Institute of Technology project)
+  * Duties included:
+    * Led a team of two.
+    * Utilized Multilayer and Convolutional Neural Networks for handwritten numbers, characters, and flower datasets.
+    * Classified datasets using neural networks and applied to real-life pictures.
+    * Conducted accuracy analysis using machine learning algorithms.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spring 2022: Individual Kaggle Project - "Chest X-Ray Images"
+  * Location: Atlanta, GA
+  * Duties included:
+    * Conducted analysis and prediction on whether X-Ray images indicated Pneumonia or Normal conditions using neural networks.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2021: Team Member - "Yoga Fit" Machine Learning project
+  * Location: Atlanta, GA (Georgia Institute of Technology project)
+  * Duties included:
+    * Built neural network using TensorFlow and Keras.
+    * Classified yoga poses using tanh as the activation function.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Programming Languages:** Python, Java, C, Jass
+* **Libraries & Frameworks:** NumPy, Tensorflow, Pytorch, Pandas, matplotlib, Pygame, scikit-learn, Sympy, JavaFx
+* **Technical Skills:** Machine Learning, Neural Networks, Data Analysis, Algorithm Design & Analysis, Graph Algorithms
+* **Tools & Software:** Wolfram Mathematica, Latex, Microsoft Office Suite (Word, PowerPoint, Excel, Outlook)
+* **Languages:** Mandarin (Native), English (Proficient)
 
 Publications
 ======
@@ -61,4 +64,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Chess Club President, Tacoma Community College (2019-2020)
