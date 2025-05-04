@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* M.S. in Computer Science, Syracuse University, 2025 (预计)
+* M.S. in Computer Science, Syracuse University, 2025 (Expected)
 * B.S. in Mathematics (Minor: Computer Science Intelligence), Georgia Institute of Technology, 2022
 * Associate of Arts in Computer Science, Tacoma Community College, 2020
 
